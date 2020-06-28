@@ -1,10 +1,11 @@
 # contact-keeper
 
 
-Usage
+Usage//
 
+Install dependencies
 
+npm install npm client-install
 
-npm install
+npm run dev # Express & React :3000 & :5000
 
-npm run dev
